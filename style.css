@@ -253,3 +253,15 @@ font-weight: 400;
     left:-150px;
     right: 100px;
 }
+.bestgift-section{
+    max-width: 1320px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.bestgift-head{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
