@@ -1,0 +1,255 @@
+
+/* header-title style added */
+.header-image-style{
+    background: linear-gradient(180deg ,#070211 0%,rgba(7,2,17,0.00)),url(../assignment-project1/resources/banner.png);
+    max-width: 1320px;
+    margin: 0 auto;
+    height: 600px;
+    border-radius: 16px;
+    margin-top: 50px;
+    background-position: center;
+ 
+
+}
+
+/* header-title-added */
+.header-title{
+color: #FFF;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+
+}
+.header-des{
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    max-width: 632px;
+ 
+    
+
+}
+.text-style{
+    padding: 150px 344px 177px 344px;
+    text-align: center;
+}
+.offer{
+    text-align: center;
+}
+.offer img{
+    max-width: 802px;
+    height: 500;
+}
+.caption-style{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    padding-top:70px;
+   
+}
+.message-style{
+    color:#F00 ;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    padding-top:48px;
+}
+.categoris-style{
+    color: #070211;
+    font-family:Inter;
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 16px;
+    padding-bottom: 48px;
+    
+}
+.welcome-sec-style{
+    background:linear-gradient(90deg ,#070211 0%,rgba(7,2,17,0.00) 100%),url(../happy-new-year-portfolio/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    max-width: 1320px;
+    margin: 0 auto;
+    height: 600px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 120px;
+}
+.welcome-title{
+    color: #FFF;
+    font-family:  Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    max-width: 642px;
+    letter-spacing: 5px;
+}
+.welcome-mes{
+    color:rgba(255,255,255,0.80);
+    font-family: Inter;
+    font-size: 18px;
+    padding-bottom: 48px;
+
+}
+.welcome-padding{
+    padding:40px 0px 214px 126px;
+}
+.welcome-padding a{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Inter;
+    padding-left: 32px;
+   
+    text-decoration: none;
+}
+.welcome-sec-style img{
+    max-width: 319px;
+    height: 464px;
+    padding: 68px 138px 67px 39px;
+}
+
+.venue-section{
+    background-image:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    max-width: 1320px;
+    margin: 0 auto;
+    height: 600px;
+    border-radius: 16px;
+    margin-top: 120px;
+    text-align: center;
+  
+}
+.venue-section-style{
+  padding-top: 100px;
+}
+.venue-des{
+    color:#070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+.orange{
+    color: #F00;
+}
+ button{
+    background-color: #F00;
+    padding: 16px 32px;
+    border-radius: 8px;
+    font-family: Inter;
+    font-weight: 700;
+    color: #FFF;
+    border:0;
+ }
+
+ .bonus-section{
+    background-color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1320px;
+    margin:0 auto;
+    margin-top: 120px;
+    border-radius: 16px;
+  
+ }
+.sec1{
+    max-width: 395px;
+
+}
+
+
+.title{
+    color: #F00;
+    font-family:Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom:-16px;
+    
+}
+.title2{
+    color:#070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+     margin-bottom:22px;
+}
+
+.description{
+    color: rgba(7,2,17,0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+.image1{
+    border:15px solid #F00;
+    border-radius: 50%;
+    padding: 49px;
+    margin-bottom: -30px;
+
+
+  
+}
+.title3{
+    color: #F00;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 48px;
+}
+.description2{
+    max-width: 276px;
+    color: rgba(7,2,17,0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+.functional-section{
+    text-align: center;
+    padding: 165px 460px;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.function-head{
+    color: #070211;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+  
+}
+.function-title{
+    color:#F00;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+.spantag{
+    color: #070211;
+    font-family: Meriweather;
+    font-size: 72px;
+    font-family: 900;
+}
+.function-des{
+    color:rgba(7,2,17,0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.discount-section{
+    display: flex;
+    max-width: 1320px;
+    margin: 0 auto;
+    background-color: #F00;
+    border-radius: 16px 0px 16px 16px;
+  
+}
+
+.crazybox{
+    position: relative;
+}
+.giftbox{
+    position: absolute;
+    top: 50px;
+    left:-150px;
+    right: 100px;
+}
