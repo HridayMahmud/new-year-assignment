@@ -257,6 +257,7 @@ font-weight: 400;
     max-width: 1320px;
     margin: 0 auto;
     text-align: left;
+    margin-top: 120px;
     
 }
 .bestgift-head{
@@ -264,10 +265,33 @@ font-weight: 400;
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    padding-top: 16px;
 }
 .bestgift-title{
     color: #070211;
     font-family: Merriweather;
     font-size: 48px;
     font-weight: 900;
+    padding-bottom: 22px;
+}
+
+.product-section{
+  
+    max-width:1320px;
+
+    margin: 0 auto;
+    padding-top: 48px;
+  
+  
+}
+.imagestyle{
+    display: inline-block;
+    width: 410px;
+    margin-right: 24px;
+    margin-top: 24px;
+    transition:1.5s;
+   
+}
+.imagestyle:hover{
+    border: 1px solid lightgray;
 }
