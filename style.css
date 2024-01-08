@@ -1,7 +1,7 @@
 
 /* header-title style added */
 .header-image-style{
-    background: linear-gradient(180deg ,#070211 0%,rgba(7,2,17,0.00)),url(../assignment-project1/resources/banner.png);
+    background: linear-gradient(180deg ,#070211 0%,rgba(7,2,17,0.00)),url("./resources/banner.png");
     max-width: 1320px;
     margin: 0 auto;
     height: 600px;
@@ -65,7 +65,7 @@ font-weight: 400;
     
 }
 .welcome-sec-style{
-    background:linear-gradient(90deg ,#070211 0%,rgba(7,2,17,0.00) 100%),url(../happy-new-year-portfolio/resources/Vectorrr.png);
+    background:linear-gradient(90deg ,#070211 0%,rgba(7,2,17,0.00) 100%),url("./resources/Vectorrr.png");
     background-repeat: no-repeat;
     max-width: 1320px;
     margin: 0 auto;
