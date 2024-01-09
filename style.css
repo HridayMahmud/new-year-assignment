@@ -240,23 +240,25 @@ font-weight: 400;
     background-repeat: no-repeat;
     justify-content: space-between;
     display: flex;
-    max-width: 1320px;
+    max-width:1320px;
     margin: 0 auto;
     height: 663px;
     background-position: bottom;
     border-radius: 16px 0px 16px 16px;
-  
 }
+
 
 .crazybox{
     position: relative;
 }
+
 .giftbox{
     position: absolute;
     top: 50px;
     left:-150px;
     right: 100px;
 }
+
 .bestgift-section{
     max-width: 1320px;
     margin: 0 auto;
