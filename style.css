@@ -166,7 +166,7 @@ font-weight: 400;
     margin-bottom:-16px;
     
 }
-.title2{
+.common-title{
     color:#070211;
     font-family: Merriweather;
     font-size: 48px;
@@ -174,7 +174,7 @@ font-weight: 400;
      margin-bottom:22px;
 }
 
-.description{
+.common-description{
     color: rgba(7,2,17,0.60);
     font-family: Inter;
     font-size: 20px;
@@ -236,10 +236,15 @@ font-weight: 400;
     
 }
 .discount-section{
+    background-image: url("resources/rectangle.png");
+    background-repeat: no-repeat;
+    justify-content: space-between;
     display: flex;
     max-width: 1320px;
     margin: 0 auto;
-    background-color: #F00;
+    height: 663px;
+    background-position: bottom;
+    
     border-radius: 16px 0px 16px 16px;
   
 }
@@ -290,8 +295,102 @@ font-weight: 400;
     margin-right: 24px;
     margin-top: 24px;
     transition:1.5s;
+  
+   
    
 }
 .imagestyle:hover{
     border: 1px solid lightgray;
+}
+.subscribe-section{
+    padding:80px 0px 200px 0px;
+    max-width: 1320px;
+    margin: 0 auto;
+    
+    border-radius: 16px;
+    margin-top: 120px;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.05);
+    height: 380px;
+}
+.subscribe-des{
+    color: rgba(7,2,17,0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 896px;
+    margin: 0 auto;
+ 
+    
+}
+input{
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 400px;
+   background:#FFF;
+   border:1px solid white;
+   border-radius: 50px 0px 0px 50px;
+   height: 72px;
+   padding:25px 30px;
+   margin-top: 48px;
+ 
+   border:0;
+}
+.button{
+ border-radius: 0px 50px 50px 0px;
+ background-color: #FF0000;
+ color: #FFF;
+ padding: 24px 56px;
+}
+.footer-style{
+    background-color: #070211;
+    max-width: 1450px;
+    margin: 0 auto;
+    padding: 120px 100px;
+    margin-top: 120px;
+   
+}
+
+.primary-text-style{
+    font-family: Inter;
+    font-size: 24px;
+    color: #FFF;
+    font-weight: 400;
+    line-height: 40px;
+    font-style: normal;
+    
+}
+
+.up{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1340px;
+    margin:0 auto;
+}
+.address-title{
+    font-family: Inter;
+    font-size: 24px;
+    color: #FFF;
+    font-weight:400;
+    line-height: 40px;
+    font-style: normal;
+    max-width: 375px;
+}
+.contact-style{
+    margin-right: 150px;
+}
+.middle{
+    text-align: center;
+   
+}
+.middle img{
+    margin-right: 24px;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    max-width: 1340px;
+    margin: 0 auto;
+  
 }
