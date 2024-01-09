@@ -258,7 +258,9 @@ font-weight: 400;
     left:-150px;
     right: 100px;
 }
-
+.giftbox-style{
+  background-image: none;
+}
 .bestgift-section{
     max-width: 1320px;
     margin: 0 auto;
